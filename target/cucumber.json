@@ -1,0 +1,182 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-18T02:23:11.424Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5745000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User verify currency values change",
+        "description": "",
+        "id": "homepage;user-verify-currency-values-change",
+        "after": [
+          {
+            "result": {
+              "duration": 245000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1237000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 60000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on Currency",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.user_click_on_currency()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 352000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Chose Euro from dropdown",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.user_chose_euro_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 588000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "currency value should change to Euro",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.currency_value_should_change_to_euro()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@HomePage"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-18T02:23:19.765Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3647000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "User empty Shopping cart message displays",
+        "description": "",
+        "id": "homepage;user-empty-shopping-cart-message-displays",
+        "after": [
+          {
+            "result": {
+              "duration": 247000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 774000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 56000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User click on shopping cart",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.user_click_on_shopping_cart()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 779000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "“Your shopping cart is empty!” message should display",
+            "match": {
+              "location": "stepDefinitions.HomeStepsNew.your_shopping_cart_is_empty_message_should_display()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@HomePage"
+          }
+        ]
+      }
+    ],
+    "name": "HomePage",
+    "description": "",
+    "id": "homepage",
+    "keyword": "Feature",
+    "uri": "classpath:features/homeNew.feature",
+    "tags": [
+      {
+        "name": "@HomePage",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

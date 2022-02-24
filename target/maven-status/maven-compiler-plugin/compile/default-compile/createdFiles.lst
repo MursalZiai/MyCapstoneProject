@@ -1,0 +1,5 @@
+pageObjects/HomeNew.class
+pageObjects/desktopNew.class
+utilities/CucumberReportingConfig.class
+core/Base.class
+utilities/Utilities.class

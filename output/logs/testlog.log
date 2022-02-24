@@ -1,0 +1,201 @@
+2022-02-17 17:55:58,552 - logger_File -INFO - ScenarioUser verify currency values changeStarted
+2022-02-17 17:55:59,474 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 17:55:59,502 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 17:56:06,462 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (5e16b8b26a499eadc0910945cdea2ed6)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 17:56:07,633 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 17:56:07,717 - logger_File -INFO - User click on currency button successfully
+2022-02-17 17:56:08,129 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-17 17:56:08,728 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-17 17:56:09,025 - logger_File -INFO - ScenarioUser verify currency values changePASSED
+2022-02-17 17:56:09,055 - logger_File -INFO - ScenarioUser empty Shopping cart message displaysStarted
+2022-02-17 17:56:09,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 17:56:09,101 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 17:56:12,003 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (8ed32fe520ff2b2157a28944fe476b11)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 17:56:13,003 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 17:56:13,065 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-17 17:56:13,745 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-17 17:56:13,962 - logger_File -INFO - ScenarioUser empty Shopping cart message displaysPASSED
+2022-02-17 18:06:05,066 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-17 18:06:05,599 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:06:05,626 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:06:10,172 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (6b343a21e46cd8b430719804453cd2ba)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:06:11,355 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:06:11,417 - logger_File -INFO - User click on currency button successfully
+2022-02-17 18:06:11,763 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-17 18:06:12,377 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-17 18:06:12,588 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-17 18:06:12,640 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-17 18:06:12,679 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:06:12,691 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:06:15,580 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (662e1cf74732a384d694341b361a7ef7)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:06:16,446 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:06:16,502 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-17 18:06:17,173 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-17 18:06:17,394 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-17 18:19:20,670 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-17 18:19:21,351 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:19:21,378 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:19:27,306 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (8b720e409d7feefef1f88ef1a5559984)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:19:28,328 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:19:28,388 - logger_File -INFO - User click on currency button successfully
+2022-02-17 18:19:28,801 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-17 18:19:29,524 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-17 18:19:29,790 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-17 18:19:29,822 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-17 18:19:29,855 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:19:29,862 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:19:34,375 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (e945e15875ffd2dc0932df45332fff28)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:19:34,987 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:19:35,038 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-17 18:19:35,711 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-17 18:19:35,955 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-17 18:23:11,750 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-17 18:23:12,303 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:23:12,329 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:23:17,374 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (5e6dadeb2a71b92b621b6ed4cf503706)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:23:18,492 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:23:18,553 - logger_File -INFO - User click on currency button successfully
+2022-02-17 18:23:18,906 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-17 18:23:19,498 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-17 18:23:19,743 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-17 18:23:19,772 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-17 18:23:19,821 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:23:19,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:23:23,463 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (bffe04e4cb5e0b40d15af9a430729b58)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:23:24,188 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:23:24,247 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-17 18:23:25,026 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-17 18:23:25,275 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-17 18:25:54,662 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-17 18:25:55,189 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:25:55,204 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:25:59,507 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (303dd6a032b62bcd3e0f7bd0587f6afe)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:26:00,537 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:26:00,600 - logger_File -INFO - User click on currency button successfully
+2022-02-17 18:26:00,939 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-17 18:26:01,569 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-17 18:26:01,737 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-17 18:26:01,753 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-17 18:26:01,776 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-17 18:26:01,803 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-17 18:26:05,256 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (8a979b9226ab93caa53e35719ad149e2)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-17 18:26:05,816 - logger_File -INFO - Retail page validate successfully!
+2022-02-17 18:26:05,867 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-17 18:26:06,417 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-17 18:26:06,622 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-22 14:23:45,379 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-22 14:23:47,057 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:23:47,087 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:23:51,765 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (c7ac236715354d315fffa855c7ed94dc)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:23:52,914 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:23:52,995 - logger_File -INFO - User click on currency button successfully
+2022-02-22 14:23:53,495 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-22 14:23:54,184 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-22 14:23:54,435 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-22 14:23:54,446 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-22 14:23:54,460 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:23:54,471 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:23:57,160 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (7b3e2335f2a1a4e89c9729e9c29e71bd)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:23:57,729 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:23:57,779 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-22 14:23:58,436 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-22 14:23:58,699 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-22 14:25:30,760 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-22 14:25:31,677 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:25:31,694 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:25:35,961 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (0d13036714279b9b1d9fbf954e39cc80)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:25:36,799 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:25:36,854 - logger_File -INFO - User click on currency button successfully
+2022-02-22 14:25:37,214 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-22 14:25:37,801 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-22 14:25:37,946 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-22 14:25:37,965 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-22 14:25:37,986 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:25:38,007 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:25:40,342 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (ba8df5fc22f03fe34a6699d58ebcbc58)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:25:41,129 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:25:41,180 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-22 14:25:41,733 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-22 14:25:41,883 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-22 14:27:50,813 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-22 14:27:51,812 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:27:51,846 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:27:58,817 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (db334645f52645d7b542fc00a784cc4d)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:27:59,454 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:27:59,513 - logger_File -INFO - User click on currency button successfully
+2022-02-22 14:27:59,889 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-22 14:28:00,467 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-22 14:28:00,672 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-22 14:28:00,685 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-22 14:28:00,703 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-22 14:28:00,735 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-22 14:28:03,906 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (bdfabac15a43e1b95a72c625d36d8de8)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-22 14:28:04,456 - logger_File -INFO - Retail page validate successfully!
+2022-02-22 14:28:04,507 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-22 14:28:05,039 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-22 14:28:05,228 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
+2022-02-23 14:17:48,568 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab Started
+2022-02-23 14:17:49,374 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:17:49,403 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:17:56,674 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (16e9fa317d369dc3f3d00c26530a2da7)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:17:58,119 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:17:58,494 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab UNDEFINED
+2022-02-23 14:17:58,534 - logger_File -INFO - ScenarioUser add HP LP 3065 from Desktops tab to the cart Started
+2022-02-23 14:17:58,564 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:17:58,571 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:18:02,514 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (c0ca5da82be46355aeec8f08871fde51)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:18:03,794 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:18:04,114 - logger_File -INFO - ScenarioUser add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-23 14:18:04,148 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-23 14:18:04,167 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:18:04,198 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:18:08,402 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (03c105249ef4804331ba26af130aed3e)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:18:10,247 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:18:10,480 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-23 14:18:10,499 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:18:10,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:28:28,027 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab Started
+2022-02-23 14:28:29,749 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:28:29,797 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:28:35,288 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (9de0d5047232abeba7deaf2803e74291)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:28:36,510 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:28:36,813 - logger_File -INFO - ScenarioUser verify all items are present in Desktops tab UNDEFINED
+2022-02-23 14:28:36,877 - logger_File -INFO - ScenarioUser add HP LP 3065 from Desktops tab to the cart Started
+2022-02-23 14:28:36,911 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:28:36,978 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:28:40,385 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (7e8bfdf28267f03a2ed43d9e19de2d55)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:28:41,877 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:28:42,256 - logger_File -INFO - ScenarioUser add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-23 14:28:42,340 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-23 14:28:42,365 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:28:42,380 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:28:46,970 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (ec5121aa449b99a0f819b444a82b72ab)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:28:48,263 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:28:48,638 - logger_File -INFO - ScenarioUser add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-23 14:28:48,687 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-23 14:28:48,709 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 14:28:48,717 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 14:28:52,989 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (a18c1e1977aa0f1b7254170a70eee858)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 14:28:54,282 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 14:28:54,498 - logger_File -INFO - ScenarioUser add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-02-23 15:14:49,010 - logger_File -INFO - ScenarioRegister with Test Environment Webpage Started
+2022-02-23 15:14:50,428 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 15:14:50,456 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 15:14:57,179 - logger_File -INFO - ScenarioRegister with Test Environment Webpage UNDEFINED
+2022-02-23 15:39:45,238 - logger_File -INFO - ScenarioUser verify currency values change Started
+2022-02-23 15:39:46,556 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 15:39:46,589 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 15:39:52,430 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (b44d35aad2096db06080a82e6ca63953)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 15:39:53,886 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 15:39:54,086 - logger_File -INFO - User click on currency button successfully
+2022-02-23 15:39:54,534 - logger_File -INFO - User chose Euro successfully from dropdown
+2022-02-23 15:39:55,379 - logger_File -INFO - Euro sign successfuly verifed
+2022-02-23 15:39:55,592 - logger_File -INFO - ScenarioUser verify currency values change PASSED
+2022-02-23 15:39:55,613 - logger_File -INFO - ScenarioUser empty Shopping cart message displays Started
+2022-02-23 15:39:55,647 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-23 15:39:55,655 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as /Users/mursalziai/.m2/repository/webdriver/chromedriver/mac64/98.0.4758.102/chromedriver
+2022-02-23 15:39:58,783 - logger_File -INFO - '[[ChromeDriver: chrome on MAC (4299d9c366fefb1e1d88695d4413d38d)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-23 15:40:00,068 - logger_File -INFO - Retail page validate successfully!
+2022-02-23 15:40:00,151 - logger_File -INFO - User click on shopping cart succesfully
+2022-02-23 15:40:01,169 - logger_File -INFO - Shopping empty message displyed successfully
+2022-02-23 15:40:01,433 - logger_File -INFO - ScenarioUser empty Shopping cart message displays PASSED
